@@ -23,7 +23,7 @@ import logo from "../img/guapiLogo.jpeg";
 export default {
   data() {
     return {
-      msg: "Hello我是瓜皮",
+      msg: "Hello我是瓜皮,水草快来投稿",
       logoImg: logo,
       introduce: false
     };
